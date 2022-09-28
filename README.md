@@ -3,10 +3,10 @@
 # Flexbox-Card-Component
 It's a flexbox card component built with the purpose of practicing flex-box advance concepts. It's mobile responsive.
 
-![screenshot](Google_Clone.png)
+![screenshot](img/flex-card-preview.png)
 
 ## [LiveDemo] 
-(https://zesty-smakager-1f2b9d.netlify.app)
+(https://moonlit-pasca-34ae72.netlify.app)
 
 ## Built With
 
